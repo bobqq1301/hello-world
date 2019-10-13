@@ -1,0 +1,4 @@
+gradlew.bat vscode -Dhttp.proxyHost=127.0.0.1 -Dhttp.proxyPort=2019 -Dhttps.proxyHost=127.0.0.1 -Dhttps.proxyPort=2019
+gradlew.bat genSources -Dhttp.proxyHost=127.0.0.1 -Dhttp.proxyPort=2019 -Dhttps.proxyHost=127.0.0.1 -Dhttps.proxyPort=2019
+gradlew.bat downloadAssets -Dhttp.proxyHost=127.0.0.1 -Dhttp.proxyPort=2019 -Dhttps.proxyHost=127.0.0.1 -Dhttps.proxyPort=2019
+gradlew.bat build -Dhttp.proxyHost=127.0.0.1 -Dhttp.proxyPort=2019 -Dhttps.proxyHost=127.0.0.1 -Dhttps.proxyPort=2019

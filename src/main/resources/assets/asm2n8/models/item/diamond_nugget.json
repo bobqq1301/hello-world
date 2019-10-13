@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "asm2n8:item/diamond_nugget"
+    }
+}

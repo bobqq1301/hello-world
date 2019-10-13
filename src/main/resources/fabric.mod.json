@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "hello_world",
+  "version": "${version}",
+  "entrypoints": {
+    "main": [
+      "tk.asm2n8.hello_world.HelloWorld"
+    ]
+  },
+  "depends": {
+    "fabric": "*",
+    "fabricloader": ">=0.4.0"
+  }
+}
